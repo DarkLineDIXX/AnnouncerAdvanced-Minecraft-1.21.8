@@ -1,0 +1,8 @@
+name: CustomAnnouncements
+version: 1.0.0
+main: com.example.customannouncements.CustomAnnouncements
+api-version: 1.21
+commands:
+  announcemenu:
+    description: Открыть меню админских объявлений
+    usage: /announcemenu
